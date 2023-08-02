@@ -13,6 +13,13 @@
       "name": "Owen Key",
       "surname": "Douglas",
       "id": 2
+    },
+    {
+      "email": "dewetuw@mailinator.com",
+      "password": "$2a$10$A9kBe6OydbBqI5f6estsled2LiiGG9RGs044s9yPyJcae6Ng9./xm",
+      "name": "Drew Schwartz",
+      "surname": "Scott",
+      "id": 3
     }
   ]
 }

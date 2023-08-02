@@ -20,7 +20,7 @@ export class AuthService {
 
   private authSubject = new BehaviorSubject<null | IAccessData>(null)
   user$ = this.authSubject.asObservable()
-  isLoggedIn$ = this.user$.pipe(map(user => !!user))
+  isLoggedIn$ = this.user$.pipe(map(user => user?.accessToken ? true : false ))
 
   constructor(
     private http:HttpClient,

@@ -18,6 +18,8 @@ export class AuthGuard implements CanActivate, CanActivateChild {
 
       return this.authSvc.isLoggedIn$.pipe(map(isLoggedIn =>{
 
+        console.log(isLoggedIn);
+
         return isLoggedIn;
 
       }));
