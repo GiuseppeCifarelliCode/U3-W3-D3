@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "email": "hacynevuf@mailinator.com",
+      "password": "$2a$10$HfjgbGXW6M/8Wi9AoAC0He2PRtQFXdJowdZC3tLSUOMTc8CMpw/ty",
+      "name": "Idola Nichols",
+      "surname": "Booker",
+      "id": 1
+    },
+    {
+      "email": "valehuvyv@mailinator.com",
+      "password": "$2a$10$BhKLITFXxC4sL3kmwfPgT.MR6qJ/HFRY5ri8nfiW01x0rwBBvQBdi",
+      "name": "Owen Key",
+      "surname": "Douglas",
+      "id": 2
+    }
+  ]
+}
